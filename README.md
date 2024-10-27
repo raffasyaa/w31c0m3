@@ -10,7 +10,7 @@
 ## (ANALYSIS)
 <p align="center">
 
-<a href="https://github.com/scscp">
+<a href="https://github.com/raffasyaa">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MyRidwan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
